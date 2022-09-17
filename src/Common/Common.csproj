@@ -11,9 +11,12 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="6.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
 	  <PackageReference Include="NLog" Version="5.0.4" />
 	  <PackageReference Include="NLog.Web.AspNetCore" Version="5.1.2" />
 	  <PackageReference Include="MailKit" Version="3.2.0" />
+	  <PackageReference Include="StackExchange.Redis.Extensions.AspNetCore" Version="8.0.5" />
+	  <PackageReference Include="StackExchange.Redis.Extensions.Core" Version="8.0.5" />
   </ItemGroup>
 
 </Project>
